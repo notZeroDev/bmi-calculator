@@ -1,0 +1,9 @@
+#colors
+MAIN = "#2E4374"
+BUTTON = "#CCC"
+BUTTON_HOVER = "#B4B4B3"
+SIDE = '#F0F0F0'
+BLACK = '#393646'
+GREY = '#F4EEE0'
+#fonts
+FONT  = 'Calibri'
